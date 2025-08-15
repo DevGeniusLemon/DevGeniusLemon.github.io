@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 # Política de Privacidad / Privacy Policy – Tap Rush
 
 ## Español
