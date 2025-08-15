@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Reverse Mode
     description                           : Start from the highest number and race down to 1.
-    fontawesome_icon_name                 : arrow-rotate-left
+    fontawesome_icon_name                 : sync
 
   - title                                 : Time Attack
     description                           : Beat the clock with an integrated timer.
@@ -68,7 +68,7 @@ features                                  :
 
   - title                                 : Smooth Animations
     description                           : Enjoy fluid transitions and haptic feedback for every tap.
-    fontawesome_icon_name                 : wand-magic-sparkles
+    fontawesome_icon_name                 : magic
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
