@@ -77,9 +77,9 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#0A0F1C"
-topbar_transparency                       : 0.1
-topbar_title_color                        : "#FFFFFF"
+topbar_color                              : "#0a0f1c"
+topbar_transparency                       : 0.4
+topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
@@ -87,24 +87,24 @@ cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#0A0F1C"
+body_background_color                     : "#0a0f1c"
 
-link_color                                : "#2B6CB0"
+link_color                                : "#2b6cb0"
 
-app_title_color                           : "#FFFFFF"
-app_price_color                           : "#D4AF37"
-app_description_color                     : "#E2E8F0"
+app_title_color                           : "#ffffff"
+app_price_color                           : "#d4af37"
+app_description_color                     : "#e2e8f0"
 
-feature_title_color                       : "#FFFFFF"
-feature_text_color                        : "#CBD5E0"
+feature_title_color                       : "#ffffff"
+feature_text_color                        : "#cbd5e0"
 
-feature_icons_foreground_color            : "#D4AF37"
-feature_icons_background_color            : "#1A202C"
+feature_icons_foreground_color            : "#d4af37"
+feature_icons_background_color            : "#1a202c"
 
-social_icons_foreground_color             : "#E2E8F0"
-social_icons_background_color             : "#1A202C"
+social_icons_foreground_color             : "#e2e8f0"
+social_icons_background_color             : "#1a202c"
 
-footer_text_color                         : "#A0AEC0"
+footer_text_color                         : "#a0aec0"
 
 
 
